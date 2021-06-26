@@ -3,7 +3,7 @@
     <div class="container py-5">
       <div class="col">
         <h3 class="display-4 text-center">
-          <a class="text-white" href="mailto:contato@dymas.dev">contato@dymas.dev</a>
+          <a class="text-white" href="mailto:dymassousa@gmail.com">dymassousa@gmail.com</a>
         </h3>
       </div>
     </div>
